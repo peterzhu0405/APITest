@@ -28,6 +28,9 @@ tables=data.sheets()[0]
 
 print(tables.nrows)
 print(tables.cell_value(2,3))
+===========================================
+学习操作json数据
+请求数据封装成json的格式
 
 
 
